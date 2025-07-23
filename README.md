@@ -21,9 +21,9 @@
 
 ## 💼 Projects
 
-🔹 [**Movie Recommender System**](https://github.com/shawky-gamal-22/Movie-Recommender-System)  
-*Python, FastAPI, Streamlit, Scikit-learn*  
-> Built a movie recommender using cosine similarity and deployed with a user-friendly Streamlit interface.
+🔹 [**RAG: Talk With Your File**](https://github.com/shawky-gamal-22/mini-rag-app-try)  
+*Python, FastAPI, Postgres, PGVector, Cohere&Openai APIs*  
+> Built a RAG System to have the knowledge of your files.
 
 🔹 [**Car Counter using YOLOv8 & SORT**](https://github.com/shawky-gamal-22/Car_Counter_With_YOLOv8)  
 *YOLOv8, OpenCV, PyTorch*  
@@ -33,9 +33,9 @@
 *Flask, scikit-learn, Pandas*  
 > Built a predictive web app using classification models to forecast hotel booking cancellations.
 
-🔹 [**Credit Card Fraud Detection**](https://github.com/shawky-gamal-22/Credit_Card_Fraud)  
-*FastAPI, Streamlit, ML Models*  
-> Created a fraud detection API and frontend interface deployed on Render.
+🔹 [**Movie Recommender System**](https://github.com/shawky-gamal-22/Movie-Recommender-System)  
+*Python, FastAPI, Streamlit, Scikit-learn*  
+> Built a movie recommender using cosine similarity and deployed with a user-friendly Streamlit interface.
 
 ---
 
