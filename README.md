@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-🎓 I'm currently pursuing a Bachelor's degree in **Computer and Control Systems Engineering** at **Mansoura University**, graduating in 2025.
+🎓 I'm a fresh grad of a Bachelor's degree in **Computer and Control Systems Engineering** at **Mansoura University**, graduated in 2025.
 
-💡 I'm passionate about **Machine Learning**, **Data Science**, and building intelligent systems that solve real-world problems.
+💡 I'm passionate about **AI Engineering** **Machine Learning**, **Data Science**, and building intelligent systems that solve real-world problems.
 
-🛠️ I'm currently enhancing my skills in **NLP**, **ML Ops**, and **deep learning** frameworks like **PyTorch** and **Keras**.
+🛠️ I'm currently enhancing my skills in **NLP**, and **deep learning** frameworks like **PyTorch**, **Langchain**, and **Keras**.
 
 🧠 I enjoy solving complex problems using data and algorithms, and I love turning ideas into working applications.
 
@@ -56,6 +56,7 @@
 ## 🌱 Currently Learning
 
 - ML Ops and deployment practices
+- NLP
 - Deep Learning (CNNs & RNNs)
 - Streamlit & FastAPI for ML App Deployment
 - Business Intelligence tools like **Power BI** and **Tableau**
