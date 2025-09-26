@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
-<h3 align="center">Hi, I'm Shawky Gamal — Junior Machine Learning Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Hi, I'm Shawky Gamal — AI Software Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" alt="coder-gif">
