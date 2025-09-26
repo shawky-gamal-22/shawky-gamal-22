@@ -20,6 +20,9 @@
 ---
 
 ## 💼 Projects
+🔹 [**Agentic RAG: Smart System to fetch knowledge from docs and online search**](https://github.com/shawky-gamal-22/AgenticRAG)  
+*Python, FastAPI, Qdrant, LangGraph*  
+> Built an Agentic RAG System to have the knowledge of your files and searching online.
 
 🔹 [**RAG: Talk With Your File**](https://github.com/shawky-gamal-22/mini-rag-app-try)  
 *Python, FastAPI, Postgres, PGVector, Cohere&Openai APIs*  
