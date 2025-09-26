@@ -44,6 +44,7 @@
 
 ## 🧰 Tech Stack & Tools
 
+![LangGraph](https://img.shields.io/badge/LangGraph-red?logo=langgraph)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
