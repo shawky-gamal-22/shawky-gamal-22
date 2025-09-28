@@ -59,12 +59,10 @@
 ---
 
 ## 🌱 Currently Learning
-
-- ML Ops and deployment practices
 - NLP
-- Deep Learning (CNNs & RNNs)
-- Streamlit & FastAPI for ML App Deployment
-- Business Intelligence tools like **Power BI** and **Tableau**
+- Agents
+- LangGraph and LangChain
+- MLOps and deployment practices
 
 ---
 
